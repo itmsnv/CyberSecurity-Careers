@@ -68,6 +68,7 @@ Certified Information Systems Auditor (CISA) - Covers auditing, control, and ass
 Certified in Risk and Information Systems Control (CRISC) - For professionals dealing with risk management.
 
 **Forensic Analyst**
+
 Investigates cybercrimes by analyzing digital evidence, tracing attack vectors, and helping organizations understand the impact of security breaches for legal and recovery purposes.
  
 Training - Learn digital forensics, data recovery, and evidence analysis.
