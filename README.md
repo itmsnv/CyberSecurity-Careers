@@ -45,7 +45,8 @@ Cisco Certified CyberOps Associate - Entry-level certification for security oper
 Cisco Certified Network Associate Security (CCNA Security) - Focuses on network security basics.
 Certified Information Security Manager (CISM) - For those more interested in managerial roles in network security.
 
-Cloud Security Specialist
+**Cloud Security Specialist**
+
 Protects cloud-based systems and data by implementing cloud security best practices, ensuring compliance, and managing cloud-based threats across platforms like AWS, Azure, and Google Cloud.
 
 Training - Learn about cloud computing platforms, security protocols, and compliance.
@@ -55,7 +56,8 @@ Certified Cloud Security Professional (CCSP) - A comprehensive cloud security ce
 AWS Certified Security - Specialty - Focuses on securing AWS environments.
 Microsoft Certified: Azure Security Engineer Associate - For Azure security specialization.
 
-Governance, Risk Management, and Compliance (GRC) Specialist
+**Governance, Risk Management, and Compliance (GRC) Specialist**
+
 Ensures an organization complies with legal regulations and industry standards, manages risks, and develops policies to maintain information security.
  
 Training - Understand risk management frameworks, data privacy laws, and compliance standards.
@@ -65,7 +67,7 @@ Certified Information Security Manager (CISM) - Focuses on risk management and c
 Certified Information Systems Auditor (CISA) - Covers auditing, control, and assurance.
 Certified in Risk and Information Systems Control (CRISC) - For professionals dealing with risk management.
 
-Forensic Analyst
+**Forensic Analyst**
 Investigates cybercrimes by analyzing digital evidence, tracing attack vectors, and helping organizations understand the impact of security breaches for legal and recovery purposes.
  
 Training - Learn digital forensics, data recovery, and evidence analysis.
@@ -76,7 +78,7 @@ GIAC Certified Forensic Analyst (GCFA) - Covers forensic analysis and incident r
 Certified Cyber Forensics Professional (CCFP) - A more advanced certification for digital forensics.
  
  
-General Recommendations for Getting Started
+**General Recommendations for Getting Started**
  
 Online Courses: Platforms like Coursera, Udemy, Cybrary, and Pluralsight offer courses on various cybersecurity topics.
 
