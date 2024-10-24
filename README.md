@@ -1,16 +1,19 @@
 Here’s a list of seven possible cybersecurity career paths along with the recommended training and certifications for each. I believe you mentioned that you are considering the course highlighted in yellow. Once you get started with that course, I think you’ll begin to see which direction suits you best. You can take these titles and search on https://www.linkedin.com/ for more job requirements for each. Feel free to reach out to me as you are taking the training with any questions.
  
-Security Analyst/Incident Responder
+**Security Analyst/Incident Responder**
+
 Monitors networks for suspicious activity, responds to security incidents, and helps prevent cyberattacks by analyzing vulnerabilities and implementing protective measures.
 
 Training - Learn about network security, threat detection, and vulnerability assessment.
  
 Certifications:
+
 CompTIA Security+ - A fundamental certification for getting started in cybersecurity. https://www.comptia.org/certifications/security
 Certified Ethical Hacker (CEH) - Focuses on penetration testing and identifying vulnerabilities.
 Certified Information Systems Security Professional (CISSP) - Advanced certification for experienced professionals.
 
-Penetration Tester (Ethical Hacker)
+**Penetration Tester (Ethical Hacker)**
+
 Simulates cyberattacks on systems and networks to identify and fix vulnerabilities before malicious hackers can exploit them. This role requires a deep understanding of hacking techniques.
  
 Training - Deep dive into ethical hacking techniques, network protocols, and security tools.
@@ -20,7 +23,8 @@ Certified Ethical Hacker (CEH) - Focuses on ethical hacking techniques.
 Offensive Security Certified Professional (OSCP) - A hands-on, practical certification for penetration testing.
 PenTest+ - Covers intermediate skills and focuses on penetration testing.
 
-Security Engineer
+**Security Engineer**
+
 Designs and implements security systems and protocols, including firewalls, encryption, and intrusion detection systems, to safeguard an organization's data and IT infrastructure.
  
 Training - Study network security architecture, software, and hardware security.
@@ -30,7 +34,8 @@ Certified Information Systems Security Professional (CISSP) - Covers a wide rang
 Certified Information Security Manager (CISM) - Focuses on managing and designing security programs.
 CompTIA Cybersecurity Analyst (CySA+) - Emphasizes proactive threat detection.
 
-Network Security Engineer
+**Network Security Engineer**
+
 Focuses on securing network systems by implementing and maintaining security measures, ensuring secure connectivity, and preventing unauthorized access.
 
 Training - Understand network architecture, firewalls, VPNs, and IDS/IPS.
