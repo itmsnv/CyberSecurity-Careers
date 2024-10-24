@@ -84,13 +84,17 @@ Certified Cyber Forensics Professional (CCFP) - A more advanced certification fo
 Online Courses: Platforms like Coursera, Udemy, Cybrary, and Pluralsight offer courses on various cybersecurity topics.
 
 Coursera: https://www.coursera.org
+
 Udemy: https://www.udemy.com
+
 Cybrary: https://www.cybrary.it
+
 Pluralsight: https://www.pluralsight.com
 
 Hands-On Experience: Set up a home lab to practice penetration testing, use virtual machines, and simulate network attacks. Hack The Box and TryHackMe are excellent platforms for hands-on learning.
  
 Hack The Box: https://www.hackthebox.com
+
 TryHackMe: https://www.tryhackme.com
 
  
